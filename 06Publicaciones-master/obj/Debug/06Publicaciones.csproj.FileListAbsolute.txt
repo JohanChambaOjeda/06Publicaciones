@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\06Publicaciones.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Form1.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Properties.Resources.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.Autores.frm_Autores.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.Ciudades.frm_Ciudades.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.Ciudades.frm_Lista_Ciudades.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.Empleados.frm_empleados.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.General.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\_06Publicaciones.Views.Ventas.frm_ventas.resources
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\06Publicaciones.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\06Publicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\06Publicaciones-master\bin\Debug\06Publicaciones.exe.config
+C:\Users\Usuario\source\repos\06Publicaciones-master\bin\Debug\06Publicaciones.exe
+C:\Users\Usuario\source\repos\06Publicaciones-master\bin\Debug\06Publicaciones.pdb
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\06Publicaciones.exe
+C:\Users\Usuario\source\repos\06Publicaciones-master\obj\Debug\06Publicaciones.pdb
